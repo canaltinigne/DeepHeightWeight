@@ -12,7 +12,7 @@ Each file is nearly 2GB. Just download them and put them in `/models` folder.
 
 ## Usage
 
-In order to train height network, run `train.py`. For weight network run `train_weight.py`. Instructions are given as comment lines in the header.
+In order to train height network, run `train.py`. For weight network run `train_weight.py`. Instructions are given as comment lines in the header. You can find the performance of models on height and weight estimation test sets in `Results_HW.ipynb` notebook.
 
 ## Weight Dataset
 
