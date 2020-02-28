@@ -5,7 +5,15 @@ We address the difficult problem of estimating the attributes of weight and heig
 ![Image of Yaktocat](images/results.png)
 
 ## Trained Models in the Original Paper
-- Pretrained Height Network: (Accepted to [IEEE ICASSP 2020](https://2020.ieeeicassp.org))
-- Pretrained Weight Network: (Accepted to [IEEE ICASSP 2020](https://2020.ieeeicassp.org))
+
+Each file is nearly 2GB. Just download them and put them in `/models` folder.
+- Pretrained Height Network: [https://drive.google.com/open?id=1fX0DDgbTcOOmiz9KdtU7I2YYg5S49upj](https://drive.google.com/open?id=1fX0DDgbTcOOmiz9KdtU7I2YYg5S49upj)
+- Pretrained Weight Network: [https://drive.google.com/open?id=14ShT0rsUohiGT0wJlKY9cGHgEy0w4Ity](https://drive.google.com/open?id=14ShT0rsUohiGT0wJlKY9cGHgEy0w4Ity)
 
 ## Usage
+
+In order to train height network, run `train.py`. For weight network run `train_weight.py`. Instructions are given as comment lines in the header.
+
+## Weight Dataset
+
+We will soon share the weight dataset that we created and used in our experiments.
