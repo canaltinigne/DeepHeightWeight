@@ -14,6 +14,10 @@ Each file is nearly 2GB. Just download them and put them in `/models` folder.
 
 In order to train height network, run `train.py`. For weight network run `train_weight.py`. Instructions are given as comment lines in the header. You can find the performance of models on height and weight estimation test sets in `Results_HW.ipynb` notebook.
 
+## Environment
+
+You can use `environment.yml` file to create a Conda environment to run experiments. You can create a new environment using this command. `conda env create -f environment.yml -p [PATH]`
+
 ## Weight Dataset
 
 We will soon share the weight dataset that we created and used in our experiments.
