@@ -10,6 +10,21 @@ We address the difficult problem of estimating the attributes of weight and heig
 
 ![Image of Yaktocat](images/results.png)
 
+## Reference
+
+If you find this code useful in your research, please consider citing:
+
+```
+@inproceedings{altinigne2020height,
+  title={Height and Weight Estimation from Unconstrained Images},
+  author={Altinigne, Can Yilmaz and Thanou, Dorina and Achanta, Radhakrishna},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2298--2302},
+  year={2020},
+  organization={IEEE}
+}
+```
+
 ## Trained Models in the Original Paper
 
 Each file is nearly 2GB. Just download them and put them in `/models` folder.
@@ -31,5 +46,3 @@ You can use `environment.yml` file to create a Conda environment to run experime
 ## Weight Dataset
 
 We will soon share the weight dataset that we created and used in our experiments.
-
-## Reference
